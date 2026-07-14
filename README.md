@@ -1,35 +1,56 @@
- <h1>Hi There <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>
+  Hi There
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 Frontend
 
-<div>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,tailwind,materialui,github,git,figma,vscode,supabase,vite,npm,vercel,codepen,html,css,postman,atom,sass,powershell,mongodb"/>
-    </a>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">GitHub Contribution:</h3>
-
-<p align="center">
-  <a href="https://github.com/georgio893479874">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgio893479874&theme=radical"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,vue,svelte,redux,tailwind,materialui,vite,jquery" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## ⚙️ Backend
 
-<h3 align="left">GitHub Status:</h3>
-
-<p align="center">
-  <a href="https://github.com/georgio893479874">
-    <img src="https://github-readme-stats.vercel.app/api?username=georgio893479874&theme=radical"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,graphql,prisma,supabase" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 🗄️ Database
 
-<h3 align="left">GitHub Activity:</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=georgio893479874&theme=radical"/>
+## 🛠️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,vercel,npm,powershell,windows" />
+</p>
+
+## 🎨 Design & IDE
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio,sublime,obsidian,atom" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=georgio893479874&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=georgio893479874&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+<img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgio893479874&theme=radical"/>
+<img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=georgio893479874&theme=radical&utcOffset=2"/>
+</p>
+
+<p align="center">
+<img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgio893479874&theme=radical"/>
+<img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=georgio893479874&theme=radical"/>
+</p>
