@@ -44,13 +44,3 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=georgio893479874&theme=radical&hide_border=true" />
 </p>
-
-<p align="center">
-<img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=georgio893479874&theme=radical"/>
-<img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=georgio893479874&theme=radical&utcOffset=2"/>
-</p>
-
-<p align="center">
-<img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgio893479874&theme=radical"/>
-<img height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=georgio893479874&theme=radical"/>
-</p>
